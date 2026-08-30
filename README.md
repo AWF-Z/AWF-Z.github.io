@@ -1,7 +1,7 @@
 # Atrin William Farnamfar
 
-Personal founder site for Atrin William Farnamfar, solo founder of Caspian Labs
-and builder of CASP.
+Personal work and research portfolio for Atrin William Farnamfar, creator of
+CASP.
 
 Live at [awf-z.github.io](https://awf-z.github.io/).
 
