@@ -1,7 +1,8 @@
-# AWF-Z.github.io
+# Atrin William Farnamfar
 
-Personal portfolio site for Atrin Farnamfar.
+Personal founder site for Atrin William Farnamfar, solo founder of Caspian Labs
+and builder of CASP.
 
-Live at https://AWF-Z.github.io
+Live at [awf-z.github.io](https://awf-z.github.io/).
 
-Built with vanilla HTML/CSS, no build step. Just edit `index.html` and push.
+The site is a single accessible HTML document with no framework or build step.
