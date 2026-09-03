@@ -5,4 +5,4 @@ CASP.
 
 Live at [awf-z.github.io](https://awf-z.github.io/).
 
-The site is a single accessible HTML document with no framework or build step.
+The site is static HTML and CSS with no framework or build step.
