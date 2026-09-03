@@ -188,13 +188,6 @@ footer {
   letter-spacing: -0.025em;
 }
 
-.contact__content p {
-  margin-top: 13px;
-  color: var(--muted);
-  font-size: 14px;
-  letter-spacing: 0;
-}
-
 footer {
   display: flex;
   justify-content: space-between;
